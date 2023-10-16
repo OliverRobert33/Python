@@ -1,0 +1,19 @@
+Los datos son: 
+
+Nombre: Oliver
+Apellido: Saraguro
+
+Nombre: Roberto
+Apellido: Loarte
+
+Nombre: Jose
+Apellido: Remache
+
+Nombre: Elian
+Apellido: Quishpi
+
+Nombre: Ahynara
+Apellido: Vivanco
+
+Nombre: Leonel
+Apellido: Rojas

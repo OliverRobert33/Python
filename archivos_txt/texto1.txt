@@ -1,0 +1,13 @@
+Linea 1 agregada con 'w'.
+Linea 2 agregada con 'w'.
+Linea 3 agregada con 'w'.
+Linea 4 agregada con 'w'.
+Linea 5 agregada con 'w'.
+Linea 6 agregada con 'w'.
+----------------
+Linea 1 agregada con 'a'.
+Linea 2 agregada con 'a'.
+Linea 3 agregada con 'a'.
+Linea 4 agregada con 'a'.
+Linea 5 agregada con 'a'.
+Linea 6 agregada con 'a'.
